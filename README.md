@@ -5,3 +5,4 @@
 ### Progress
 
 Day 1 - MNIST classification
+Day 2 - Model Training
