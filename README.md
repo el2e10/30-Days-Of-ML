@@ -6,3 +6,4 @@
 
 Day 1 - MNIST classification
 Day 2 - Model Training
+Day 3 - Regularization and Logistic regression
