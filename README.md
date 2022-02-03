@@ -4,7 +4,8 @@
 
 ### Progress
 
-Day 1 - MNIST classification
-Day 2 - Model Training
-Day 3 - Regularization and Logistic regression
-Day 4 - SVM
+- Day 1 - MNIST classification
+- Day 2 - Model Training
+- Day 3 - Regularization and Logistic regression
+- Day 4 - SVM
+- Day 5 - Regression using SVM
