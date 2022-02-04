@@ -9,3 +9,4 @@
 - Day 3 - Regularization and Logistic regression
 - Day 4 - SVM
 - Day 5 - Regression using SVM
+- Day 6 - Decision Tree
