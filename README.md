@@ -11,3 +11,4 @@
 - Day 5 - Regression using SVM
 - Day 6 - Decision Tree
 - Day 7 - Ensembel Learning
+- Day 8 - Bagging
