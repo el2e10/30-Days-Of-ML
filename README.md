@@ -12,3 +12,4 @@
 - Day 6 - Decision Tree
 - Day 7 - Ensembel Learning
 - Day 8 - Bagging
+- Day 9 - Out of Bag Evaluation
