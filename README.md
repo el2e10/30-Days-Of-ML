@@ -13,3 +13,4 @@
 - Day 7 - Ensembel Learning
 - Day 8 - Bagging
 - Day 9 - Out of Bag Evaluation
+- Day 10 - Random Forest
