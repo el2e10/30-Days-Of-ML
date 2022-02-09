@@ -14,3 +14,4 @@
 - Day 8 - Bagging
 - Day 9 - Out of Bag Evaluation
 - Day 10 - Random Forest
+- Day 11 - Boosting     
