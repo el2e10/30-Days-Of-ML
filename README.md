@@ -16,3 +16,4 @@
 - Day 10 - Random Forest
 - Day 11 - Boosting
 - Day 12 - Gradient Boosting
+- Day 13 - Dimensionality Reduction Intro
