@@ -17,3 +17,5 @@
 - Day 11 - Boosting
 - Day 12 - Gradient Boosting
 - Day 13 - Dimensionality Reduction Intro
+- Day 14 - PCA 
+- Day 14 - PCA(contd...) 
