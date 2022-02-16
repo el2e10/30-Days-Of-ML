@@ -18,4 +18,5 @@
 - Day 12 - Gradient Boosting
 - Day 13 - Dimensionality Reduction Intro
 - Day 14 - PCA 
-- Day 14 - PCA(contd...) 
+- Day 15 - PCA(contd...) 
+- Day 16 - Compressing data using PCA 
