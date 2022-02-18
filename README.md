@@ -21,3 +21,4 @@
 - Day 15 - PCA(contd...)
 - Day 16 - Compressing data using PCA
 - Day 17 - Unsupervised Learning
+- Day 18 - KMeans 
