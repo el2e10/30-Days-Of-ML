@@ -22,3 +22,4 @@
 - Day 16 - Compressing data using PCA
 - Day 17 - Unsupervised Learning
 - Day 18 - KMeans 
+- Day 19 - DBSCAN & KNN  
