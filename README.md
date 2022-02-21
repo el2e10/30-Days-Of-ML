@@ -24,3 +24,4 @@
 - Day 18 - KMeans 
 - Day 19 - DBSCAN & KNN  
 - Day 20 - Perceptron 
+- Day 21 - Image classifier using Sequential API in TF 
