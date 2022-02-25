@@ -3,6 +3,7 @@
 ### <b>This repo follows the book Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelien Geron</b>
 
 ### Progress
+Current Page No. -> 330
 
 - Day 1 - MNIST classification
 - Day 2 - Model Training
@@ -27,3 +28,4 @@
 - Day 21 - Image classifier using Sequential API in TF 
 - Day 22 - Functional API in TF 
 - Day 23 - Callback in keras 
+- Day 24 - Hyperparameter tuning 
