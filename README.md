@@ -3,6 +3,7 @@
 ### <b>This repo follows the book Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelien Geron</b>
 
 ### Progress
+
 Current Page No. -> 330
 
 - Day 1 - MNIST classification
@@ -22,10 +23,11 @@ Current Page No. -> 330
 - Day 15 - PCA(contd...)
 - Day 16 - Compressing data using PCA
 - Day 17 - Unsupervised Learning
-- Day 18 - KMeans 
-- Day 19 - DBSCAN & KNN  
-- Day 20 - Perceptron 
-- Day 21 - Image classifier using Sequential API in TF 
-- Day 22 - Functional API in TF 
-- Day 23 - Callback in keras 
-- Day 24 - Hyperparameter tuning 
+- Day 18 - KMeans
+- Day 19 - DBSCAN & KNN
+- Day 20 - Perceptron
+- Day 21 - Image classifier using Sequential API in TF
+- Day 22 - Functional API in TF
+- Day 23 - Callback in keras
+- Day 24 - Hyperparameter tuning
+- Day 25 - Vanishing gradient
