@@ -4,7 +4,7 @@
 
 ### Progress
 
-Current Page No. -> 330
+Current Page No. -> 344
 
 - Day 1 - MNIST classification
 - Day 2 - Model Training
@@ -31,3 +31,4 @@ Current Page No. -> 330
 - Day 23 - Callback in keras
 - Day 24 - Hyperparameter tuning
 - Day 25 - Vanishing gradient
+- Day 26 - Batch Normalization
