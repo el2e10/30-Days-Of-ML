@@ -4,7 +4,7 @@
 
 ### Progress
 
-Current Page No. -> 344
+Current Page No. -> 351
 
 - Day 1 - MNIST classification
 - Day 2 - Model Training
@@ -32,3 +32,4 @@ Current Page No. -> 344
 - Day 24 - Hyperparameter tuning
 - Day 25 - Vanishing gradient
 - Day 26 - Batch Normalization
+- Day 27 - Tensorboard
