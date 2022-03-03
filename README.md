@@ -4,7 +4,7 @@
 
 ### Progress
 
-Current Page No. -> 351
+Current Page No. -> 353
 
 - Day 1 - MNIST classification
 - Day 2 - Model Training
@@ -33,3 +33,4 @@ Current Page No. -> 351
 - Day 25 - Vanishing gradient
 - Day 26 - Batch Normalization
 - Day 27 - Tensorboard
+- Day 28 - Momentum Method
