@@ -34,3 +34,4 @@ Current Page No. -> 353
 - Day 26 - Batch Normalization
 - Day 27 - Tensorboard
 - Day 28 - Momentum Method
+- Day 29 - Different optimizations
