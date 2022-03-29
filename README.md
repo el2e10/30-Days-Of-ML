@@ -4,7 +4,7 @@
 
 ### Progress
 
-Current Page No. -> 362
+Current Page No. -> 384
 
 - Day 1 - MNIST classification
 - Day 2 - Model Training
@@ -36,3 +36,4 @@ Current Page No. -> 362
 - Day 28 - Momentum Method
 - Day 29 - Different optimizations
 - Day 30 - Learning rate scheduling 
+- Day 31 - Tensorflow datatypes basics 
